@@ -1,15 +1,17 @@
 # About
 
-Hello, my name is Rafael, i have 30 years.
+Olá, me chamo Rafael, tenho 30 anos e sou desenvolvedor.
 
-Father of two children, im developer front-end, back-end, and ux designer. I self entitle a creative developer.
+Pai de 2 filhos, trabalho com desenvolvimento e arte desde os 15 anos. Me auto-entitulo um Desenvolvedor Criativo.
 
-Working with this for 15 years and since 2007 im in home-office in my home. With rule and dedication can preserve all this time with great projects, and have won friends with my work. Im happy for many like it.
+Em 2009 optei por ser freela, trabalhar em home-office para ver o crescimento de meus filhos e deu certo. Conquistei muito cliente e apliquei a minha experiência no meu trabalho in-house.
 
-You want to talk to me? It will be an honor, rafaux@icloud.com.
+Estive em algumas agências como Desenvolvedor Front-end e Client-side, como a GrupoSal e Agência Simples. Por 1 ano tive o privilégio de trabalhar na Rede Globo. Enfim, todas fundamentais para o meu crescimento e minha visão de trabalho.
 
-Also i communicate on twitter @rafaux.
+Quer me dar a honra de termos uma conversa? rafaux@icloud.com.
 
-Of course, i have some projects published in behance, check out: http://be.net/rafaux.
+Também me comunico via Twitter @rafaux.
 
-cya
+Tenho muito trabalho realizado e estou pondo alguns no Behance, http://be.net/rafaux.
+
+CYA!
