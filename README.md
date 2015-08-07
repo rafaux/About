@@ -2,7 +2,7 @@
 
 Olá, me chamo Rafael, tenho 30 anos e sou desenvolvedor.
 
-Pai de 2 filhos, trabalho com desenvolvimento e arte desde os 15 anos. Me auto-entitulo um Desenvolvedor Criativo.
+Pai de 2 filhos, trabalho com desenvolvimento e arte desde os 15 anos. Me auto-intitulo um Desenvolvedor Criativo.
 
 Desde 2009 optei por trabalhar em home-office para ver o crescimento de meus filhos.
 
