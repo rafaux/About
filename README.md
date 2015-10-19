@@ -10,10 +10,12 @@ Estive em algumas agências como Desenvolvedor Front-end e Client-side, como a G
 
 Montei o grupo LoveWP, que basicamente define o amor que temos pelo Wordpress.
 
+Atualmente sou CEO da Huge Branding. http://fb.com/hugebranding/
+
 Quer me dar a honra de termos uma conversa? rafaux@icloud.com.
 
-Também me comunico via Twitter @rafaux.
+Também me comunico via Twitter @rafaux_.
 
 Tenho muito trabalho realizado e estou pondo alguns no Behance, http://be.net/rafaux.
 
-CYA!
+CYA
