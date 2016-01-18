@@ -1,21 +1,19 @@
 # About
 
-Olá, me chamo Rafael, tenho 30 anos e sou desenvolvedor.
+Olá! Me chamo Rafael, tenho 30 anos, pai de 2 filhos, desenvolvedor e designer.
 
-Pai de 2 filhos, trabalho com desenvolvimento e arte desde os 15 anos. Me auto-intitulo um Desenvolvedor Criativo.
+Trabalho com desenvolvimento desde os 15 anos. O design sempre faz parte da minha vida, desde criança desenhando e brincando de ilustrar os meus pensamentos. Me auto-intitulo um Desenvolvedor Criativo. Capiche?
 
-Desde 2009 optei por trabalhar em home-office para ver o crescimento de meus filhos.
+Desde 2009 trabalho em home-office. Montei meu escritório caseiro com o meu Macbook, minha planilha Scrum, Pomodo Technique, e principalmente, meu conforto.
 
-Estive em algumas agências como Desenvolvedor Front-end e Client-side, como a GrupoSal e Agência Simples. Por 1 ano tive o privilégio de trabalhar na Rede Globo. Enfim, todas fundamentais para o meu crescimento e minha visão de trabalho.
+Antes de virar "freela", trabalhei em 2 das melhores agências do Brasil como desenvolvedor front-end e client-side (GrupoSal e Simples Ag). Neste período trabalhei no desenvolvimento, e em alguns, no gerenciamento, de grandes projetos (Universal Channel, Globo.com, Duloren, Domino's, HangLoose, Lacta, Canal Brasil, Spoleto, e etc). Durante 2 anos tive o privilégio de trabalhar na Rede Globo e Globosat. Obtive grandes amigos e feeling, que foram fundamentais para o meu crescimento e minha atual visão de trabalho para o home-office.
 
-Montei o grupo LoveWP, que basicamente define o amor que temos pelo Wordpress.
+Atualmente (2016) trabalho como desenvolvedor front, back-end e ux designer. Sou apaixonado pelo Wordpress, por tweaks html/css, frameworks php. Este mundinho web faz parte de mim. Sou feliz por isto.
 
-Atualmente sou CEO da Huge Branding. http://fb.com/hugebranding/
-
-Quer me dar a honra de termos uma conversa? rafaux@icloud.com.
+Quer me dar a honra de uma conversa? rafaux@icloud.com.
 
 Também me comunico via Twitter @rafaux_.
 
-Tenho muito trabalho realizado e estou pondo alguns no Behance, http://be.net/rafaux.
+Acesse meu repositório Projects https://github.com/rafaux/Projects.
 
 CYA
