@@ -8,7 +8,7 @@ Desde 2009 trabalho em home-office. Montei meu escritório caseiro com o meu Mac
 
 Desenvolvi, e em alguns, gerenciei, grandes projetos para empresas renomadas (Universal Channel, Canal Brasil, Globo.com, Infoglobo, Duloren, Domino's, Spoleto, HangLoose, Oakley, WSL, Lacta, Nestlé, BMW, Mercedes, Banco do Brasil, Vale Cultura, etc).
 
-Antes de virar "freela", trabalhei em 2 das melhores agências do Brasil como desenvolvedor front-end e client-side; GrupoSal e Simples Ag. Por quase 3 anos tive o privilégio de trabalhar na Rede Globo e Globosat.
+Antes de virar "freela", trabalhei em 2 das melhores agências do Brasil como desenvolvedor front-end e client-side; GrupoSal e Simples Ag. Por 1 ano e meio tive o privilégio de trabalhar na Rede Globo e Globosat.
 
 Durante os anos em agências de publicidade e empresas de tecnologia, obtive grandes amigos e feeling, que foram fundamentais para o meu crescimento e minha atual visão de trabalho para o home-office.
 
