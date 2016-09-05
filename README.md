@@ -1,8 +1,10 @@
-# About
+# Eu
 
 Olá! Me chamo Rafael, tenho 31 anos, pai de 2 filhos, front/back-end e ux designer.
 
 Trabalho com desenvolvimento desde os 14/15 anos. O design sempre fez parte da minha vida. Desde criança desenhando e brincando de ilustrar os meus pensamentos. Me auto-intitulo um Desenvolvedor Criativo. Capiche?
+
+# Eu
 
 Desde 2009 trabalho em home-office. Decidi montar meu escritório para me aproximar das crianças e de minha esposa (se não colocar isto, estaria morto), que é o que me revitaliza diariamente.
 
