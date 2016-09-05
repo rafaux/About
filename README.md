@@ -4,7 +4,7 @@ Olá! Me chamo Rafael, tenho 31 anos, pai de 2 filhos, front/back-end e ux desig
 
 Trabalho com desenvolvimento desde os 14/15 anos. O design sempre fez parte da minha vida. Desde criança desenhando e brincando de ilustrar os meus pensamentos. Me auto-intitulo um Desenvolvedor Criativo. Capiche?
 
-Desde 2009 trabalho em home-office. Decidi montar meu escritório para me aproximar das crianças, que é o que me revitaliza diariamente. Para isto, conto com um MackBook + Monitor devidamente grande, metodologias ágeis de desenvolvimento (scrum, pomodoro, trello), sublime, photoshop, sketch e, claro, o conforto caseiro; único.
+Desde 2009 trabalho em home-office. Decidi montar meu escritório para me aproximar das crianças e de minha esposa (se não colocar isto, estaria morto), que é o que me revitaliza diariamente. Para isto, conto com um MackBook + Monitor devidamente grande, metodologias ágeis de desenvolvimento (scrum, pomodoro, trello), sublime, photoshop, sketch e, claro, o conforto caseiro; único.
 
 Desenvolvi, e em alguns, gerenciei, grandes projetos para empresas renomadas (Universal Channel, Canal Brasil, Globosat, Globo.com, Infoglobo, Duloren, Domino's, Spoleto, HangLoose, Oakley, WSL, Lacta, Nestlé, BMW, Mercedes, Banco do Brasil, Vale Cultura, etc).
 
