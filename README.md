@@ -4,7 +4,7 @@ Olá! Me chamo Rafael Monroe, tenho 32 anos, casado, pai de 2 filhos, front/back
 
 Trabalho desenvolvendo e criando desde os 14 anos. O design sempre fez parte da minha vida. Desde criança desenhando e brincando de ilustrar os meus pensamentos. Me auto-intitulo um Desenvolvedor Criativo. Capiche?
 
-Sou apaixonado por WordPress, CMS, HTML5, CSS3, Frameworks, Pré-Processadores, Traços, Desenhos. E, acima de tudo, minha família.
+Sou apaixonado por WordPress, CMS, HTML5, CSS3, Frameworks, Tweaks, Pré-Processadores, Traços, Desenhos, Apple. E, acima de tudo, minha família.
 
 # Home-office
 
@@ -22,7 +22,7 @@ Durante os anos nas empresas acima, obtive bastante contato e knowledge, que for
 
 # O que faço
 
-Atualmente, trabalho como desenvolvedor front, back-end e ux designer. Sou apaixonado pelo Wordpress, CMS, por tweaks html/css, frameworks php, traços visuais, 3d. Este mundinho faz parte de mim. Acordo diariamente feliz por trabalhar com o que amo.
+Atualmente, trabalho como desenvolvedor front, back-end e ux designer. Este mundinho faz parte de mim. Acordo diariamente feliz por trabalhar com o que amo. Feliz mesmo.
 
 # Contato
 
