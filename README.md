@@ -1,14 +1,20 @@
 # Eu
 
-Olá! Me chamo Rafael, tenho 32 anos, casado, pai de 2 filhos, front/back-end e ux designer.
+Olá! Me chamo Rafael Monroe, tenho 32 anos, casado, pai de 2 filhos, front/back-end e ux designer.
 
 Trabalho desenvolvendo e criando desde os 14 anos. O design sempre fez parte da minha vida. Desde criança desenhando e brincando de ilustrar os meus pensamentos. Me auto-intitulo um Desenvolvedor Criativo. Capiche?
+
+Front-end ♥ ♥ ♥ ♥ ♥
+Back-end  ♥ ♥ ♥
+Wordpress ♥ ♥ ♥ ♥ ♥
+UX        ♥ ♥ ♥ ♥
+Layout    ♥ ♥ ♥ ♥ 
 
 # Home-office
 
 Desde 2009 trabalho em home-office. Decidi montar meu escritório in-house para me aproximar das crianças e de minha esposa, que é o que me revitaliza diariamente.
 
-No home-office, conto com um MackBook, um Monitor devidamente grande, um bom fone de ouvido, metodologias ágeis de desenvolvimento (scrum, pomodoro, trello), sublime, photoshop, sketch e, claro, o conforto caseiro; único. Ah sim, a comida também ;)
+No home-office, conto com um MackBook, um Monitor devidamente grande, um bom fone de ouvido, ferramentas ágeis de desenvolvimento (scrum, pomodoro, trello), sublime, photoshop, sketch e, claro, o conforto caseiro; único. Ah sim, a comida também ;)
 
 # Por onde passei
 
